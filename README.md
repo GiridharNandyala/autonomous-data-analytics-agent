@@ -2,6 +2,11 @@
 
 An end-to-end multi-agent Data Analytics pipeline built with **Streamlit**, **Python**, and **LLMs / Rule-Based Engines**. This application automates raw CSV data ingestion, performs intelligent data cleaning, conducts Exploratory Data Analysis (EDA), extracts strategic business insights, and automatically generates a downloadable PDF executive report.
 
+## 🚀 Live Demo & Links
+
+- 🌐 **Live Web Application:** [Autonomous Data Analytics Agent App](https://giridhar-autonomous-data-analytics-agent.streamlit.app/)
+- 💼 **LinkedIn Announcement Post:** [View Project Demo on LinkedIn](https://www.linkedin.com/posts/giridhar-nandyala-5758662b2_python-dataanalytics-streamlit-ugcPost-7496476096247316480-jvER/)
+
 ---
 
 ## ✨ Key Features
