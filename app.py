@@ -47,7 +47,7 @@ if not has_openai_key:
     )
 
 # --- Upload -----------------------------------------------------------------
-uploaded = st.fileUploader("Upload CSV file", type=["csv"])
+uploaded = st.file_uploader("Upload CSV file", type=["csv"])
 
 if uploaded is not None:
     try:
